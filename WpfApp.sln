@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWPF", "HelloWPF\HelloWPF.csproj", "{88B97AF0-FA72-4774-96A2-DAF1B3BF0E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWPF", "HelloWPF\HelloWPF.csproj", "{88B97AF0-FA72-4774-96A2-DAF1B3BF0E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLBasics", "XAMLBasics\XAMLBasics.csproj", "{A267E788-DE7D-4C3C-B998-AAC0220FBBDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XAMLBasics", "XAMLBasics\XAMLBasics.csproj", "{A267E788-DE7D-4C3C-B998-AAC0220FBBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication", "WpfApplication\WpfApplication.csproj", "{82037C58-0537-4D90-9E82-7CF4F719BC74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A267E788-DE7D-4C3C-B998-AAC0220FBBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A267E788-DE7D-4C3C-B998-AAC0220FBBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A267E788-DE7D-4C3C-B998-AAC0220FBBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82037C58-0537-4D90-9E82-7CF4F719BC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82037C58-0537-4D90-9E82-7CF4F719BC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82037C58-0537-4D90-9E82-7CF4F719BC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82037C58-0537-4D90-9E82-7CF4F719BC74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
